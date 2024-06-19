@@ -168,7 +168,7 @@ public class Program
     }
 }
 ```
-Use the built-in `insert` button (see below) in the chat response interface to insert at the cursor in your `UserService.cs` file. 
+Use the built-in `insert` button (see below) in the chat response interface to insert at the cursor in your `Program.cs` file. 
 
 <img src="./images/copilot_insert.png" alt="GitHub Copilot Insert" width="250"/>
 
